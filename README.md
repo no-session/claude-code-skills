@@ -1,6 +1,6 @@
 # Claude Code Skills
 
-A collection of skills for Claude Code — reusable prompt-driven workflows you can add to your projects.
+A collection of skills for Claude Code.
 
 ## Skills
 
