@@ -6,7 +6,7 @@ A collection of skills for Claude Code — reusable prompt-driven workflows you 
 
 | Skill | Description |
 |-------|-------------|
-| [product-management](./product-management/) | Product management assistant for PRDs, specs, feature planning, and prioritization (inspired by [Eno Reyes](https://x.com/EnoReyes) (co-founder of [FactoryAI](https://factory.ai/)), who demoed his PM skill in [this video](https://www.youtube.com/watch?v=j7CaMx2c56M) on the [Behind the Craft](https://www.youtube.com/@BehindTheCraft) channel by [Peter Yang](https://x.com/petergyang) ) |
+| [product-management](./product-management/) | Product management assistant for PRDs, specs, feature planning, and prioritization (inspired by [Eno Reyes](https://x.com/EnoReyes) (co-founder of [FactoryAI](https://factory.ai/)), who demoed his PM skill in [this video](https://www.youtube.com/watch?v=j7CaMx2c56M) on the [Behind the Craft](https://www.youtube.com/@PeterYangYT) channel by [Peter Yang](https://x.com/petergyang) ) |
 
 ## Usage
 
