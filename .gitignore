@@ -1,1 +1,4 @@
 docs/
+.claude/
+.gstack/
+.DS_Store
