@@ -88,7 +88,7 @@ Pick a product you use daily. Write a case study that demonstrates PM thinking:
 - Target 20-30 roles that match your background + PM overlap
 - Reach out to 5-10 PMs at target companies for informational interviews
 - Apply to roles where your domain expertise is an advantage
-- Prepare for interviews using `interview-prep.md`
+- Prepare for interviews using the `pm-career-interview` skill
 
 ## Transferable Skills by Background
 
