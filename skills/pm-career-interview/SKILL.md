@@ -1,3 +1,8 @@
+---
+name: pm-career-interview
+description: "PM interview drill partner. Runs mock interviews, teaches the right framework (CIRCLES, AARM, DIGS, STAR, Fermi) for each question type, and drills through a ~500-question bank from Aakash Gupta's cheat sheets (behavioral, product design, strategy, metrics, technical, leadership). Use for PM interview prep, mock interviews, drilling specific question types, or building a behavioral story bank. Triggers: 'PM interview prep', 'mock interview', 'drill me on', 'CIRCLES', 'AARM', 'DIGS', 'product design question', 'behavioral interview', 'metrics interview', 'product strategy interview'. For resume reviews, career direction, or breaking into PM, use the pm-career-coach skill instead."
+---
+
 # Skill: PM Career Interview
 
 ## Purpose
