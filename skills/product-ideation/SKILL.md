@@ -181,6 +181,7 @@ A typical session looks like one of these:
 
 ## Handoffs
 
+- **`complaint-mining`** — when the user wants to go deep on Lens 8 (App Store / Play Store / Reddit / G2 review scraping with scripts and LLM clustering); especially for indie hackers picking app wedges
 - **`product-management`** — once they have a validated thesis and want to write a PRD, plan scope, prioritize features
 - **`copywriting`** — once they need landing page / pre-sell / interview-recruiting copy
 - **`pm-career-coach`** — if they're really asking "should I quit my job to do this?" rather than "is this idea good?"

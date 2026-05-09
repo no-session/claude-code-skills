@@ -205,6 +205,8 @@ For each candidate, draft:
 
 > "Where are people loudly unhappy?"
 
+**For deep, systematic complaint mining (App Store / Play Store / Reddit / G2 scraping with Python scripts and Claude clustering), see the dedicated [`complaint-mining`](../../complaint-mining/) skill.** This lens is the lightweight version — useful when complaint mining is one of several generation lenses you're running in a session.
+
 ### Sub-prompts
 Run searches systematically, not casually. For each, take 5 verbatim quotes:
 

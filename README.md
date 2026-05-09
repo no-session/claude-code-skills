@@ -6,6 +6,7 @@ A collection of Claude Code skills, packaged as a plugin.
 
 | Skill | Description |
 |-------|-------------|
+| [complaint-mining](./skills/complaint-mining/) | Find indie/bootstrap app and SaaS ideas by mining public complaints — App Store / Play Store reviews, Reddit rants, G2 / Capterra / Trustpilot, social media. Includes Python scrapers, Claude clustering prompts, scoring rubric, wedge templates, and outreach DMs to turn complainers into your first 100 customers. |
 | [copywriting](./skills/copywriting/) | Persuasive copy for SaaS landing pages, emails, ads, and sales pages — headlines, CTAs, product descriptions, and marketing copy that drives action. |
 | [pm-career-coach](./skills/pm-career-coach/) | PM career coach for resume reviews, career direction, and transitions into PM. Frameworks from Shreyas Doshi, Lenny Rachitsky, Jackie Bavaro, Ken Norton, Aakash Gupta, and Sachin Rekhi. |
 | [pm-career-interview](./skills/pm-career-interview/) | PM interview drill partner. ~500 questions (behavioral, product design, strategy, metrics, technical, leadership) from Aakash Gupta's cheat sheets, with CIRCLES / AARM / DIGS / Fermi frameworks and worked examples. |
@@ -45,7 +46,8 @@ Each skill follows this convention:
 <skill-name>/
 ├── SKILL.md        # The skill file (required). YAML frontmatter with name and description, followed by skill content.
 ├── templates/      # Supporting templates and reference docs (optional)
-└── examples/       # Real-world configuration examples (optional)
+├── examples/       # Real-world configuration examples (optional)
+└── scripts/        # Runnable scripts the skill invokes or hands to the user (optional)
 ```
 
 ## Contributing
