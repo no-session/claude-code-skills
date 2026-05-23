@@ -10,6 +10,7 @@ A collection of Claude Code skills, packaged as a plugin.
 | [pm-career-coach](./skills/pm-career-coach/) | PM career coach for resume reviews, career direction, and transitions into PM. Frameworks from Shreyas Doshi, Lenny Rachitsky, Jackie Bavaro, Ken Norton, Aakash Gupta, and Sachin Rekhi. |
 | [pm-career-interview](./skills/pm-career-interview/) | PM interview drill partner. ~500 questions (behavioral, product design, strategy, metrics, technical, leadership) from Aakash Gupta's cheat sheets, with CIRCLES / AARM / DIGS / Fermi frameworks and worked examples. |
 | [product-management](./skills/product-management/) | Product management skill for reviewing PRDs, specs, feature planning, and prioritization — inspired by [Eno Reyes](https://x.com/EnoReyes) (co-founder of [FactoryAI](https://factory.ai/)), who demoed his PM skill in [this video](https://www.youtube.com/watch?v=j7CaMx2c56M) on the [Behind the Craft](https://www.youtube.com/@PeterYangYT) channel by [Peter Yang](https://x.com/petergyang). |
+| [unmet-need-mining](./skills/unmet-need-mining/) | Indie hacker / bootstrap idea discovery. Mine Reddit, App Store / Play Store, Trustpilot, G2, Hacker News, Indie Hackers, and niche communities for unmet needs and complaints that map to B2B micro-SaaS ($50–500/mo) or prosumer one-person tools ($10–50/mo). Amy Hoy's *Sales Safari* plus modern variants from Arvid Kahl, Pieter Levels, Rob Walling, Tyler Tringas, patio11, and Tony Dinh. VC-scale shapes explicitly out of scope. |
 
 ## Usage
 
