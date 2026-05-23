@@ -51,7 +51,7 @@ Before diving into pain-mining, get a baseline for *what already sells at bootst
 
 ---
 
-## Reddit
+## Reddit ⭐ bootstrap-strong (both tracks)
 
 **Best for:** Almost every audience. Long-form, candid, often timestamped and persona-tagged through subreddit context.
 
